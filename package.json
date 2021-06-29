@@ -1,6 +1,6 @@
 {
   "name": "snake-game",
-  "homepage":"https://www.slow-codex.github.io/snake-game",
+  "homepage": "https://slow-codex.github.io/snake-game",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
