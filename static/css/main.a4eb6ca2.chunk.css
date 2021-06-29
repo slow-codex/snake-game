@@ -1,4 +1,2 @@
-@import url(https://fonts.googleapis.com/css?family=Lobster&display=swap)repeat scroll 0 0 rgba(0, 0, 0 , 0)
-
 *{background-color:#807a7a;border:0}.game-area{background-color:#fff;position:relative;margin:50px auto;width:600px;height:600px;box-shadow:0 1px 1px rgba(0,0,0,.15),0 10px 0 -5px #eee,0 10px 1px -4px rgba(0,0,0,.15),0 20px 0 -10px #eee,0 20px 1px -9px rgba(0,0,0,.15)}.snake-dot{background-color:#000;z-index:2}.snake-dot,.snake-food{position:absolute;width:2%;height:2%;border:1px solid #fff}.snake-food{background:red;z-index:1}
-/*# sourceMappingURL=main.b219c5ab.chunk.css.map */
+/*# sourceMappingURL=main.a4eb6ca2.chunk.css.map */
