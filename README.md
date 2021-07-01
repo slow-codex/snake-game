@@ -25,7 +25,7 @@ If you want to edit this template for your own use please read below carefully.
 | Atom 	| [Download it from here](https://atom.io/)	|
 
 
-3. Run npm start in your respective terminal and voila the site will run on your localhost:3000
+3. Run `npm start` in your respective terminal and voila the site will run on your `localhost:3000`
 
 
 ## License
