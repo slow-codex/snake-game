@@ -2,6 +2,11 @@
 
 \* created using `create-react-app`
 
+## Demo
+
+![Starting](https://github.com/slow-codex/snake-game/blob/01c92f4012df4c80edec3fc639c6c4019b715c7d/images/Capture1.JPG)
+![Ending](https://github.com/slow-codex/snake-game/blob/01c92f4012df4c80edec3fc639c6c4019b715c7d/images/Capture.JPG)
+
 ## Introduction
 
 In this repository I made a simple Web Application using ReactJS to play the iconic Nokia3310 Snake Game.
@@ -10,7 +15,6 @@ You can visit the deployed app, at [Snake Game](https://slow-codex.github.io/sna
 
 This repository contains the files related to the app. The `master` branch contains the app's source code (the code the app's developers edit), and the `gh-pages` branch contains a *built* version of the app (i.e. the code that GitHub Pages serves to the app's visitors).
 
-If you want to edit this template for your own use please read below carefully.
 
 ## Procedure
 
