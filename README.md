@@ -4,8 +4,10 @@
 
 ## Demo
 
-![Starting](https://github.com/slow-codex/snake-game/blob/01c92f4012df4c80edec3fc639c6c4019b715c7d/images/Capture1.JPG)
-![Ending](https://github.com/slow-codex/snake-game/blob/01c92f4012df4c80edec3fc639c6c4019b715c7d/images/Capture.JPG)
+<p align="center">
+  <img src="https://github.com/slow-codex/snake-game/blob/01c92f4012df4c80edec3fc639c6c4019b715c7d/images/Capture1.JPG" width="350" height="350" title="Starting">
+  <img src="https://github.com/slow-codex/snake-game/blob/fd2b061d2381fcbe675914b4f6a6bc13665c5731/images/Capture.JPG" width="350" height="350" title="ENding">
+</p>
 
 ## Introduction
 
