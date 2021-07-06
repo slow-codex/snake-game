@@ -41,7 +41,6 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 ## References
 
 1. [Facebook's tutorial on deploying a React app to GitHub Pages](https://facebook.github.io/create-react-app/docs/deployment#github-pages-https-pagesgithubcom)
-2. [A Website for hosting simple kitten pictures](http://placekitten.com/)
 
 ## Notes
 
