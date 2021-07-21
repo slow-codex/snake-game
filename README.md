@@ -33,7 +33,6 @@ This repository contains the files related to the app. The `master` branch conta
 
 3. Run `npm start` in your respective terminal and voila the site will run on your `localhost:3000`
 
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
